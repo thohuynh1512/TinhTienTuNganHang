@@ -22,5 +22,6 @@ int main()
 	cout << "So to menh gia 5: " << to_5 << endl;
 	cout << "So to menh gia 1: " << to_1 << endl;
 	cout << "Tong so to nhan duoc: " << to_100 + to_20 + to_5 + to_1 << endl;
+	return 0;
 }
 
